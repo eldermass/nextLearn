@@ -32,7 +32,7 @@ class App extends React.Component {
             }
           `}
         </style>
-        <h1 onClick={() => alter("黄宇贱是个天才怪")}>点击了解一切</h1>
+        <h1 onClick={() => alert("这一切就是，黄宇贱是个天才怪")}>点击了解一切</h1>
       </div>
     );
   }
