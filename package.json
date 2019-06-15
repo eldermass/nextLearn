@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start",
     "koa": "node serverkoa.js",
-    "pkoa": "NODE_ENV=production node serverkoa.js",
+    "pkoa": "node pserverkoa.js",
     "exp": "node serverexp.js",
     "serve": "node server.js"
   },
